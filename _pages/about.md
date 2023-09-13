@@ -60,28 +60,30 @@ Currently, 1279 foreign students are enrolled in different academic programs at 
 ## University Honors
 List of distinguished people from the Ferdowsi University of Mashhad:
 
-Dr. Ali Shariati, Distinguished faculty member of History
-Professor Mohammad Taghi Fatemi, Professor of Mathematics
-Dr. Ali Akbar Fayyaz, Professor of Persian Language and Literature
-Dr. Gholam Hossein Yousefi, Professor of Persian Language and Literature
-Dr. Sayyed Jalal al-Din Ashtiyani, Professor of Islamic Philosophy
-Dr. Kazem Modir-Shanechi, Professor of Quranic Sciences and Hadith
-Dr. Mohammad Vaezzadeh, Professor of Quranic Sciences and Hadith
+- Dr. Ali Shariati, Distinguished faculty member of History
+- Professor Mohammad Taghi Fatemi, Professor of Mathematics
+- Dr. Ali Akbar Fayyaz, Professor of Persian Language and Literature
+- Dr. Gholam Hossein Yousefi, Professor of Persian Language and Literature
+- Dr. Sayyed Jalal al-Din Ashtiyani, Professor of Islamic Philosophy
+- Dr. Kazem Modir-Shanechi, Professor of Quranic Sciences and Hadith
+- Dr. Mohammad Vaezzadeh, Professor of Quranic Sciences and Hadith
+
 ## The Distinguished Professors of the University
-Late Dr. Hossein Razmjoo, Department of Persian Language and Literature
-Late Dr. Mohammad Ali Rajaee Bokharaee, Department of Persian Language and Literature
-Late Dr. Lotf-Allah Mafakham Payan, Department of Geography
-Late Dr. Sayyed Mohammad Taghi Edalati Sharbaf, Department of Physics
-Late Javad Hadidi, Department of French Language and Literature
-Dr. Sayyed Mohammad Alavi Moghaddam, Department of Persian Language and Literature
-Dr. Rampoor Sadr Nabavi, Department of Social Sciences
-Dr. Afzal Forooghi, Department of French Language and Literature
-Dr. Rahmatollah Fattahi, Department of Information Sciences and Knowledge Studies
-Dr. Gholam-Hossein Haghniya, Department of Soil sciences
-Dr. Elaheh Kafshdar Goharshadi, Department of Chemistry
-Dr. Mohammad Sal Moslehiyan, Department of Pure Mathematics
-Dr. Mohammad-Reza Taraghiyan, Department of Applied Mathematics
-Dr. Naser-Reza Arghami, Department of Applied Mathematics
+- Late Dr. Hossein Razmjoo, Department of Persian Language and Literature
+- Late Dr. Mohammad Ali Rajaee Bokharaee, Department of Persian Language and Literature
+- Late Dr. Lotf-Allah Mafakham Payan, Department of Geography
+- Late Dr. Sayyed Mohammad Taghi Edalati Sharbaf, Department of Physics
+- Late Javad Hadidi, Department of French Language and Literature
+- Dr. Sayyed Mohammad Alavi Moghaddam, Department of Persian Language and Literature
+- Dr. Rampoor Sadr Nabavi, Department of Social Sciences
+- Dr. Afzal Forooghi, Department of French Language and Literature
+- Dr. Rahmatollah Fattahi, Department of Information Sciences and Knowledge Studies
+- Dr. Gholam-Hossein Haghniya, Department of Soil sciences
+- Dr. Elaheh Kafshdar Goharshadi, Department of Chemistry
+- Dr. Mohammad Sal Moslehiyan, Department of Pure Mathematics
+- Dr. Mohammad-Reza Taraghiyan, Department of Applied Mathematics
+- Dr. Naser-Reza Arghami, Department of Applied Mathematics
+
 ## Educational Awards
  Winner of the National Award for Outstanding Student by a student from the Ferdowsi University of Mashhad, August 2015
  Achieving the first rank in the National Nano Competition of Iran at the Bachelor’s level, September 2015
