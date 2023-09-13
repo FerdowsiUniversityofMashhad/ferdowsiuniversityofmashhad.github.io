@@ -85,55 +85,57 @@ List of distinguished people from the Ferdowsi University of Mashhad:
 - Dr. Naser-Reza Arghami, Department of Applied Mathematics
 
 ## Educational Awards
- Winner of the National Award for Outstanding Student by a student from the Ferdowsi University of Mashhad, August 2015
- Achieving the first rank in the National Nano Competition of Iran at the Bachelor’s level, September 2015
- The best Award winner poster at the International Conference on Nano in Mashhad, June 2015
- Award winner of two bronze medals at the Chemistry Olympiad in the 20th Scientific Student Olympiad, August 2015
- Achieving the first rank in the National Sheikh-Bahai Techno-preneurship Festival, May, 2015
- Achieving the second rank in the 16th National Statistics Students’ Competition by the students’ team of the Faculty of Mathematics, September, 2015
- Achieving the first rank at the National Robotic Competition by the robotics team of the Faculty of Engineering, September, 2015
- Achieving the third rank at the 19th Student Scientific Olympiad, September, 2014
- Achieving the third rank in practical projects of the Khwarizmi International Awards, 2014
- Achieving the first and the second ranks in the Robotic League, March, 2014
- Achieving the first rank at the 19th National Chemistry Olympiad, August, 2014
- Achieving the second rank at the 19th Scientific Student Olympiad, September, 2014
- Award winner of the best doctoral thesis, September, 2013
- Achieving the first and the third ranks at the 18th Scientific Student Olympiad, October, 2013
+ - Winner of the National Award for Outstanding Student by a student from the Ferdowsi University of Mashhad, August 2015
+ - Achieving the first rank in the National Nano Competition of Iran at the Bachelor’s level, September 2015
+ - The best Award winner poster at the International Conference on Nano in Mashhad, June 2015
+ - Award winner of two bronze medals at the Chemistry Olympiad in the 20th Scientific Student Olympiad, August 2015
+ - Achieving the first rank in the National Sheikh-Bahai Techno-preneurship Festival, May, 2015
+ - Achieving the second rank in the 16th National Statistics Students’ Competition by the students’ team of the Faculty of Mathematics, September, 2015
+ - Achieving the first rank at the National Robotic Competition by the robotics team of the Faculty of Engineering, September, 2015
+ - Achieving the third rank at the 19th Student Scientific Olympiad, September, 2014
+ - Achieving the third rank in practical projects of the Khwarizmi International Awards, 2014
+ - Achieving the first and the second ranks in the Robotic League, March, 2014
+ - Achieving the first rank at the 19th National Chemistry Olympiad, August, 2014
+ - Achieving the second rank at the 19th Scientific Student Olympiad, September, 2014
+ - Award winner of the best doctoral thesis, September, 2013
+ - Achieving the first and the third ranks at the 18th Scientific Student Olympiad, October, 2013
 
 ## Research Honors
-Achieving the 3rd rank 3 in Iran, 95th in Asia, 455th in world based on the 4ICU Ranking, 2015
-Award winner of the Dehkhoda Medal for 2 faculty members of the Ferdowsi University of Mashhad, December, 2015
-The Ferdowsi University of Mashhad ranked in the top one percent of the world's influential universities, July, 2015
-Developing the technical knowledge of reproducing one of the world’s top five flowers by researchers, August, 2015
-Acknowledging two faculty member of the Department of Chemistry as Iran’s prominent chemists, September, 2015
-Achieving the third and the fourth ranks in modern languages and chemical engineering based on QS ranking 2014
-Achieving the sixth rank among universities affiliated with the Ministry of Science based on URAP ranking system, 2014
-Paying tributes to three distinguished faculty members of Geology as Iran’s Top Scientists, October, 2013
-Achieving the first rank in the 20th Student Yearbook Festival in the field of Art and Architecture, December, 2013
+- Achieving the 3rd rank 3 in Iran, 95th in Asia, 455th in world based on the 4ICU Ranking, 2015
+- Award winner of the Dehkhoda Medal for 2 faculty members of the Ferdowsi University of Mashhad, December, 2015
+- The Ferdowsi University of Mashhad ranked in the top one percent of the world's influential universities, July, 2015
+- Developing the technical knowledge of reproducing one of the world’s top five flowers by researchers, August, 2015
+- Acknowledging two faculty member of the Department of Chemistry as Iran’s prominent chemists, September, 2015
+- Achieving the third and the fourth ranks in modern languages and chemical engineering based on QS ranking 2014
+- Achieving the sixth rank among universities affiliated with the Ministry of Science based on URAP ranking system, 2014
+- Paying tributes to three distinguished faculty members of Geology as Iran’s Top Scientists, October, 2013
+- Achieving the first rank in the 20th Student Yearbook Festival in the field of Art and Architecture, December, 2013
+
 ## Honors in Research and Technology
- Achieving the first rank in innovation by the “Rekab Sabz” team of the Faculty of Engineering, March, 2016
-Achieving the third rank in ACM International Collegiate Programming Contest by the programming team of the Computer Department, January, 2016
-POD system at the Ferdowsi University of Mashhad won a Silver FAB Award, June, 2015
-Achieving the first rank at the 5th Communication and IT Festival, May, 2015
-Achieving the First rank at the Web Iran Festival, December, 2015
-Achieving the second national rank in the Web page size index based on SCIMAGO, 2014
-Achieving the third rank at the 4th Communication and Technology Festival in the field of Information, May 2014
-Achieving a top rank in simulation lab among 8 top teams in the RoboCup World Championship, August 2015
+- Achieving the first rank in innovation by the “Rekab Sabz” team of the Faculty of Engineering, March, 2016
+- Achieving the third rank in ACM International Collegiate Programming Contest by the programming team of the Computer Department, January, 2016
+- POD system at the Ferdowsi University of Mashhad won a Silver FAB Award, June, 2015
+- Achieving the first rank at the 5th Communication and IT Festival, May, 2015
+- Achieving the First rank at the Web Iran Festival, December, 2015
+- Achieving the second national rank in the Web page size index based on SCIMAGO, 2014
+- Achieving the third rank at the 4th Communication and Technology Festival in the field of Information, May 2014
+- Achieving a top rank in simulation lab among 8 top teams in the RoboCup World Championship, August 2015
+
 ## Culture and Sport Achievements
-Achieving championship at the13th Male Cultural-sports Olympiad, September 2016
-Achieving the second rank at the 13th Female Cultural-sports Olympiad, September 2016
-Achieving championship at the Public Sports Olympiad of Girls, September 2015
-Achieving the rank of outstanding consulting center of Iran by the Consulting Center of the Ferdowsi University of Mashhad, March 2016
-Winning 11 outstanding titles by the Art and Cultural Center of the Ferdowsi University of Mashhad in the Rooyesh Festival, June 2015
-Winning the title of outstanding lady of Khorasan Razavi by a faculty member, April 2015
-Achieving the championship at the12th Male Cultural-sports Olympiad, September 2014
-Achieving the second rank at the 12th Female Cultural-sports Olympiad, September 2014
-Achieving the first rank in cultural activities of Iranian universities, 2013
-Achieving the 11th top ranks in the Quran competitions of region 3, May 2013
-Achieving the first, the second and third ranks in the Quran Festival of Iran, October 2013
-Achieving the 5 top ranks at the Khwarizmi Festival in the field of student press, May 2013
-Achieving the 4 top ranks at the 7th international Festivals of Press and News agencies, May 2013
-Achieving the 4 top ranks at the Quran competitions of faculty members, July 2013
-Winner of 9 top titles for Art and Cultural Centers at the Ferdowsi University of Mashhad, March 15, 2013
-Winner of 8 top titles at the Motion Festival, December 2011
-Achieving the third rank at the Students’ National Quran Competition, May 2011
+- Achieving championship at the13th Male Cultural-sports Olympiad, September 2016
+- Achieving the second rank at the 13th Female Cultural-sports Olympiad, September 2016
+- Achieving championship at the Public Sports Olympiad of Girls, September 2015
+- Achieving the rank of outstanding consulting center of Iran by the Consulting Center of the Ferdowsi University of Mashhad, March 2016
+- Winning 11 outstanding titles by the Art and Cultural Center of the Ferdowsi University of Mashhad in the Rooyesh Festival, June 2015
+- Winning the title of outstanding lady of Khorasan Razavi by a faculty member, April 2015
+- Achieving the championship at the12th Male Cultural-sports Olympiad, September 2014
+- Achieving the second rank at the 12th Female Cultural-sports Olympiad, September 2014
+- Achieving the first rank in cultural activities of Iranian universities, 2013
+- Achieving the 11th top ranks in the Quran competitions of region 3, May 2013
+- Achieving the first, the second and third ranks in the Quran Festival of Iran, October 2013
+- Achieving the 5 top ranks at the Khwarizmi Festival in the field of student press, May 2013
+- Achieving the 4 top ranks at the 7th international Festivals of Press and News agencies, May 2013
+- Achieving the 4 top ranks at the Quran competitions of faculty members, July 2013
+- Winner of 9 top titles for Art and Cultural Centers at the Ferdowsi University of Mashhad, March 15, 2013
+- Winner of 8 top titles at the Motion Festival, December 2011
+- Achieving the third rank at the Students’ National Quran Competition, May 2011
