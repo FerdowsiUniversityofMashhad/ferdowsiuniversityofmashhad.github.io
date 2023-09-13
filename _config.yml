@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ferdowsi University of Mashhad"
 title_separator          : "-"
 name                     : &name "Ferdowsi University of Mashhad"
-description              : &description "personal description"
+description              : &description "description"
 url                      : https://ferdowsiuniversityofmashhad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ferdowsiuniversityofmashhad/ferdowsiuniversityofmashhad.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ferdowsi University of Mashhad"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "biography for the left-hand sidebar"
   location         : "Mashhad, Razavi Khorasan, Iran"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ferdowsi+University+of+Mashhad"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
