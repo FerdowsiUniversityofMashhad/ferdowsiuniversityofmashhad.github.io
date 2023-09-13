@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ferdowsi+University+of+Mashhad"
   googlescholar    : "https://scholar.google.com/citations?view_op=view_org&hl=en&org=12493016978831566375"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/institution/Ferdowsi-University-Of-Mashhad" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ferdowsiuniversityofmashhad"
   google_plus      :
   keybase          :
   instagram        :
